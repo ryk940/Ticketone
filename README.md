@@ -1,7 +1,5 @@
 # Ticketone
 
-| 프로젝트 소개
-
 <br>프로젝트명: TicketOne
 <br>구분: 웹개발
 <br>개발인원: 3명
