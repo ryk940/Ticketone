@@ -62,10 +62,6 @@ public class TicketController {
 		
 		UserVO loginUser = (UserVO) session.getAttribute("loginUser");
 		if(loginUser == null) {
-			//JOptionPane msg = new JOptionPane();
-			//msg.showMessageDialog(null, "로그인을 하세요.");
-			//showMessageDialog(null, "로그인을 하세요.");
-
 			
 			return "redirect:login_form";
 		}
